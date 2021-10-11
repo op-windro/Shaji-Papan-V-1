@@ -38,7 +38,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@windroSabeena123/Shaji-pappan-v-1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/windro3321/Shaji-pappan-V-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/op-windro/Shaji-pappan-V-1)
      </div>
 <br>
 <br >
